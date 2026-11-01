@@ -4,7 +4,7 @@ import {
   KAFKA_BROKER,
   KAFKA_CLIENT_ID,
   KAFKA_CONSUMER_GROUP,
-} from './constants/kafka.constants';
+} from './constants/kafka.constants.js';
 
 export const KAFKA_SERVICE = 'KAFKA_SERVICE';
 
